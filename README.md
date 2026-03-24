@@ -23,7 +23,7 @@ Students managing coursework and deadlines.
 "As a student, I want to see a list of all my tasks, so that I have an overview of my workload."
 
 git init
-git remote add origin https://github.com/YOUR-USERNAME/study-planner.git
+git remote add origin https://github.com/Naoreo14/study-planner.git
 git add .
 git commit -m "Initial Next.js setup"
 git branch -M main
